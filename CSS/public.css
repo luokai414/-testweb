@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+{margin:0;padding:0;}
+#body1
+{
+	height:557px;
+	padding-top:38px;
+	background-color:#3c3c3c;
+}
+a
+{ 
+	text-decoration:none;
+	
+}
+li
+{  
+	list-style:none;
+}
+img
+{
+	border:none 0;
+}
+.bigBox
+{
+	width:1002px;
+	margin:0 auto;
+	margin-top:38px;
+	background-color:#fff;
+}
+body
+{
+	background-color:#f1f0ee;
+}
+.topBox
+{
+	overflow:hidden;
+	height:112px;
+}
+.logo
+{
+	float:left;
+	margin-top:43px;
+	margin-left:38px;
+}
+.nav
+{
+	float:right;
+	margin-right:38px;
+	margin-top:48px;
+}
+.nav li
+{
+	float:left;
+	border-right:solid 1px #CCCCCC;
+	height:20px;
+	margin-top:10px;
+}
+.nav a
+{
+	display:block;
+	padding:12px 20px;
+	color:#999;
+	margin-top:-8px;
+}
+.nav a:hover
+{
+	background-color:#F93;
+	color:#fff;
+}
+.foot
+{
+	background:#3c3c3c;
+	width:1002px;
+	height:71px;
+	margin:0 auto;	
+}
+.foot .footleft
+{
+	float:left;
+	color:#FFF;
+	font-size:12px;
+	margin-top:17px;
+	margin-left:10px;
+}
+.footleft a
+{
+	color:#FFF;
+}
+.footleft a:hover
+{
+	color:#F60;
+	text-decoration:underline;
+}
+.foot li
+{
+	float:left;
+}
+.foot .footright
+{
+	float:right;
+	color:#FFF;
+	font-size:12px;
+	margin-top:27px;
+	margin-right:50px;
+}
+
